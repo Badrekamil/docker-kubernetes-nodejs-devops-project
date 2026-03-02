@@ -30,3 +30,9 @@ kubectl apply -f service.yaml
 
 kubectl get pods
 kubectl get svc
+## Screenshots
+
+screenshots/docker-build.png
+screenshots/docker-push.png
+screenshots/kubectl-service.png
+screenshots/kubernetes-dashboard.png
